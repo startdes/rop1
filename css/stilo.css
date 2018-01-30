@@ -52,6 +52,16 @@ html {
     text-align: center;
 
 }
+.site {
+    width: 100%;
+    background-color: #CD8733;
+    line-height: 80px;
+    font-size: 18px;
+    color: #fff;
+    float: left;
+    text-align: center;
+
+}
 
 .propaganda {
     width: 100%;
