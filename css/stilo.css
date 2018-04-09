@@ -1,76 +1,67 @@
-body,
-html {
-    font-family: Arial, Tahoma, sans-serif;
-    text-align: center;
-}
-
 .logo {
-    position: relative;
-    width: 100%;
-    height: auto;
-    margin-bottom: -3px;
+width: 550px;    
 }
 
-#divzapzap {
+.divlinks {
     width: 100%;
-    background-color: #39890f;
-    line-height: 60px;
-    font-size: 14px;
-    color: #FFF;
-    float: left;
+    max-width: 450px;
     text-align: center;
+    line-height: 30px;
+    border-radius: 0px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.40), 0 2px 8px rgba(0, 0, 0, 0.40);
 }
 
-#divlocalizacao {
-    width: 100%;
-    background-color: #8e2727;
-    line-height: 60px;
-    font-size: 14px;
-    color: #FFF;
-    float: left;
-    text-align: center;
+.divcenter {
+    text-align: center;  
 }
 
-#divtel {
-    width: 100%;
+.divconteudo {
+    margin: 10px;
+}
+
+.divpropaganda {
+    margin-top: 50px;
+
+}
+
+#link {
+    color: #000000;
+}
+
+body {
+background: rgb(255, 255, 255);
+}
+
+.geral {
     background-color: rgb(57, 53, 53);
-    line-height: 60px;
-    font-size: 14px;
-    color: #FFF;
-    float: left;
-    text-align: center;
-
+    border: 0px;
 }
 
-
-#divcompartilhar {
-    width: 100%;
-    background-color: #5d8faf;
-    line-height: 60px;
-    font-size: 14px;
-    color: #FFF;
-    float: left;
-    text-align: center;
-
+.zapzapcolor {
+    background-color: #39890f;
+    border: 0px;
 }
-.site {
-    width: 100%;
+
+.instacolor {
+    background-color: #b12c2c;
+    border: 0px;
+}
+
+.facecolor {
+    background-color: #4267B2;
+    border: 0px;
+}
+
+.icon{
+    font-size: 20px;    
+}
+
+.site{
     background-color: #cb8f48;
-    line-height: 60px;
-    font-size: 14px;
-    color: #fff;
-    float: left;
-    text-align: center;
-
+    border: 0px;
 }
 
-.propaganda {
-    width: 100%;
-    background-color: #ffffff;
-    line-height: 60px;
-    font-size: 14px;
-    color: #030303;
-    float: left;
-    text-align: center;
-
+.mail{
+        background-color: #3273bf;
+    border: 0px;
 }
